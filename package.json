@@ -9,10 +9,5 @@
   },
   "browser": {
     "k": "yields-k"
-  },
-  "component": {
-    "scripts": {
-      "shortcuts/index.js": "index.js"
-    }
   }
 }
