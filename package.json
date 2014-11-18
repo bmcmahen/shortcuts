@@ -5,10 +5,10 @@
   "version": "0.2.0",
   "main": "index.js",
   "dependencies": {
-    "k-component": "^0.6.2"
+    "yields-k": "^0.6.2"
   },
   "browser": {
-    "k": "k-component"
+    "k": "yields-k"
   },
   "component": {
     "scripts": {
